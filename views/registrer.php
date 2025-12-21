@@ -21,7 +21,10 @@
         </button>
       </form>
 
-
+ <p class="text-center text-gray-600 mt-4">
+      Déjà inscrit ?
+      <a href="login.html" class="text-blue-600 hover:underline">Se connecter</a>
+    </p>
    
   </div>
 </div>
