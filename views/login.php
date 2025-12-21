@@ -15,7 +15,10 @@
 
     </form>
 
-    
+    <p class="text-center text-gray-600 mt-4">
+      Pas de compte ?
+      <a href="/register" class="text-blue-600 hover:underline">Créer un compte</a>
+    </p>
 
   </div>
 </div>
